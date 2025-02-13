@@ -13,8 +13,9 @@ My portfolio includes the development of notable applications, such as a payment
 <br/>
 <br/>
 <h3 align="left">Favorite Repositories</h3>
-<a href="https://github.com/JAbozarOid/abo-pay" target="_blank"><strong>Abo Pay</strong>Clean Architecture / Kotlin Coroutines / Kotlin Flow / Pagination
-•MVI / Retrofit / Room / Jetpack Compose
+<a href="https://github.com/JAbozarOid/abo-pay" target="_blank"><strong>Abo Pay</strong>
+  <p></p>Clean Architecture / Kotlin Coroutines / Kotlin Flow / Pagination
+•MVI / Retrofit / Room / Jetpack Compose</p>
 •Dependency Injection -Hilt</a>
 <br/><br/>
 
