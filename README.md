@@ -1,9 +1,5 @@
 <h1 align="left">Hey 👋, I'm Abozar</h1>
-<p align="left">I am an experienced Android Engineer with over 7 years of experience specializing in Android SDK, Gradle, modularization, Kotlin, Jetpack Compose, 
-concurrency management, dependency injection, performance optimization, and service integration. 
-As an active contributor to the open-source community, I'm developing an Android application based on Compose, MVI, and Modularization per feature.
-Throughout my career, I have successfully worked in diverse organizations with varying team sizes, delivering outstanding results.
-My portfolio includes the development of notable applications, such as a payment app, map area calculator app, real estate app, and shopping app.
+<p align="left">Software developer with 10+ years of experience building Android and modern SPA web applications. Strong focus on Kotlin, Jetpack Compose, Coroutines & Flow, Clean Architecture, and modular MVI systems. Complemented by hands-on engineering experience with JavaScript, TypeScript, React.js, Next.js, and scalable frontend patterns.
 </p>
 
 📫 Reach me via **abozar.raghibdoust@gmail.com**
@@ -32,3 +28,4 @@ Dependency Injection -Hilt</p>
       <img src="https://github-readme-stats.vercel.app/api?username=jabozaroid&show_icons=true&locale=en" />
   </div>
 </div>
+
