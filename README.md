@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Abozar</h1>
-<p align="left">Software developer with 10+ years of experience building Android and modern SPA web applications. Strong focus on Kotlin, Jetpack Compose, Coroutines & Flow, Clean Architecture, and modular MVI systems. Complemented by hands-on engineering experience with JavaScript, TypeScript, React.js, Next.js, and scalable frontend patterns.
+<p align="left">Senior Android Engineer with 9+ years of experience building secure financial and banking applications. Experienced in Android application security analysis, security hardening, secure SDK development, identity verification systems, and collaborating with banking security certification teams to implement protections against runtime instrumentation, rooted devices, reverse engineering, and application tampering. Proficient in Kotlin, Jetpack Compose, Clean Architecture, and high-reliability mobile systems where security and correctness are critical
 </p>
 
 📫 Reach me via **abozar.raghibdoust@gmail.com**
